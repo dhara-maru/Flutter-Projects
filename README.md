@@ -6,19 +6,19 @@ Welcome to my Flutter Projects Showcase! I Explored the world of Flutter through
 
 1. **BMI Calculator 🧮**
    - Calculate and track your Body Mass Index effortlessly.
-   - [BMI Calculator](https://github.com/dhara-maru/BMI-Calculator-Flutter)
+   - Check out - [BMI Calculator](https://github.com/dhara-maru/BMI-Calculator-Flutter)
 
 2. **To-Do App ✅**
    - Stay organized with a simple and intuitive To-Do application.
-   - [To-Do App](https://github.com/dhara-maru/My-To-Do-App-Flutter)
+   - Check out - [To-Do App](https://github.com/dhara-maru/My-To-Do-App-Flutter)
 
 3. **Gender Predictor App 🧒🏻**
    - App that utilizes the Genderize API to predict the gender associated with a given name.
-   - [Gender Predictor](https://github.com/dhara-maru/Gender-Predictor-Flutter)
+   - Check out - [Gender Predictor](https://github.com/dhara-maru/Gender-Predictor-Flutter)
 
 4. **Stopwatch App ⏱️**
    - Stopwatch app built with Flutter, offering precise time tracking & lap recording.
-   - [Stopwatch App](https://github.com/dhara-maru/StopWatch-App-Flutter)
+   - Check out - [Stopwatch App](https://github.com/dhara-maru/StopWatch-App-Flutter)
 
 ## Technologies Used 💻
 
