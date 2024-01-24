@@ -17,7 +17,7 @@ Welcome to my Flutter Projects Showcase! Explore a collection of my diverse Flut
 3. **Gender Predictor App 👶**
    - 
 
-   [![Gender Predictor](link-to-gender-repo)](link-to-gender-repo)
+   [![Gender Predictor](https://github.com/dhara-maru/Gender-Predictor-Flutter)](https://github.com/dhara-maru/Gender-Predictor-Flutter)
 
 4. **Stopwatch App ⏱️**
    - A sleek and accurate stopwatch to keep track of time.
