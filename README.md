@@ -1,6 +1,6 @@
 # Flutter Projects Showcase 🚀
 
-Welcome to my Flutter Projects Showcase! Explore a collection of my diverse Flutter applications, each crafted with a blend of elegant design and functional brilliance.
+Welcome to my Flutter Projects Showcase! I Explored the world of Flutter through a collection of projects.
 
 ## Projects:
 
@@ -17,5 +17,5 @@ Welcome to my Flutter Projects Showcase! Explore a collection of my diverse Flut
    - [Gender Predictor](https://github.com/dhara-maru/Gender-Predictor-Flutter)
 
 4. **Stopwatch App ⏱️**
-   - A sleek and accurate stopwatch to keep track of time.
+   - Stopwatch app built with Flutter, offering precise time tracking & lap recording.
    - [Stopwatch App](https://github.com/dhara-maru/StopWatch-App-Flutter)
