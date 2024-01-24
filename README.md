@@ -15,7 +15,7 @@ Welcome to my Flutter Projects Showcase! Explore a collection of my diverse Flut
    [![To-Do App](https://github.com/dhara-maru/My-To-Do-App-Flutter)](https://github.com/dhara-maru/My-To-Do-App-Flutter)
 
 3. **Gender Predictor App 👶**
-   - 
+   - App that utilizes the Genderize API to predict the gender associated with a given name.
 
    [![Gender Predictor](https://github.com/dhara-maru/Gender-Predictor-Flutter)](https://github.com/dhara-maru/Gender-Predictor-Flutter)
 
