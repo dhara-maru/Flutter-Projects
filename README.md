@@ -19,6 +19,11 @@ Welcome to my Flutter Projects Showcase! I Explored the world of Flutter through
 4. **Stopwatch App ⏱️**
    - Stopwatch app built with Flutter, offering precise time tracking & lap recording.
    - [Stopwatch App](https://github.com/dhara-maru/StopWatch-App-Flutter)
-  
+
+## Technologies Used 💻
+
+- Flutter 📱
+- Dart 🎯
+
 ## Let's Connect:
    - Feel free to explore, contribute, and connect with me on these projects! 😊
