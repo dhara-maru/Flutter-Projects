@@ -7,7 +7,7 @@ Welcome to my Flutter Projects Showcase! Explore a collection of my diverse Flut
 1. **BMI Calculator 🧮**
    - Calculate and track your Body Mass Index effortlessly.
 
-   [![BMI Calculator](link-to-bmi-repo)](link-to-bmi-repo)
+   [![BMI Calculator](https://github.com/dhara-maru/BMI-Calculator-Flutter)](https://github.com/dhara-maru/BMI-Calculator-Flutter)
 
 2. **To-Do App ✅**
    - Stay organized with a simple and intuitive To-Do application.
