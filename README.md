@@ -11,12 +11,16 @@ Welcome to my Flutter Projects Showcase! I Explored the world of Flutter through
 2. **To-Do App ✅**
    - Stay organized with a simple and intuitive To-Do application.
    - Check out - [To-Do App](https://github.com/dhara-maru/My-To-Do-App-Flutter)
+  
+3. **Nature's Basket Fruit App UI 🍏🍌🍇**
+   - Explore a variety of fruits and their details with Nature's Basket Flutter App.
+   - Check out - [Nature's Basket](https://github.com/dhara-maru/Natures-Basket)
 
-3. **Gender Predictor App 🧒🏻**
+4. **Gender Predictor App 🧒🏻**
    - App that utilizes the Genderize API to predict the gender associated with a given name.
    - Check out - [Gender Predictor](https://github.com/dhara-maru/Gender-Predictor-Flutter)
 
-4. **Stopwatch App ⏱️**
+5. **Stopwatch App ⏱️**
    - Stopwatch app built with Flutter, offering precise time tracking & lap recording.
    - Check out - [Stopwatch App](https://github.com/dhara-maru/StopWatch-App-Flutter)
 
