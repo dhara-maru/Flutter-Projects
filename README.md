@@ -25,7 +25,7 @@ Welcome to my Flutter Projects Showcase! I Explored the world of Flutter through
    - Check out - [Stopwatch App](https://github.com/dhara-maru/StopWatch-App-Flutter)
 
 6. **QR Code Scanner & Generator 🤳🏼**
-   - Create and Generate QR codes for various purposes with ease.
+   - Create or Scan QR codes for various purposes with ease.
    - Check out - [QR Code Scanner & Generator App]([https://github.com/dhara-maru/StopWatch-App-Flutter](https://github.com/dhara-maru/QR-Code-Scanner-Generator))
      
 
