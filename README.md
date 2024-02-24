@@ -30,7 +30,7 @@ Welcome to my Flutter Projects Showcase! I Explored the world of Flutter through
   
 7. **Language Translator App 🌏**
    - Flutter App for translating text between multiple languages effortlessly!
-   - Check out - [Language Translator App](https://github.com/dhara-maru/QR-Code-Scanner-Generator)
+   - Check out - [Language Translator App](https://github.com/dhara-maru/Language-Translator-App)
 
 ## Technologies Used 💻
 
