@@ -27,7 +27,10 @@ Welcome to my Flutter Projects Showcase! I Explored the world of Flutter through
 6. **QR Code Scanner & Generator 🤳🏼**
    - Create or Scan QR codes for various purposes with ease.
    - Check out - [QR Code Scanner & Generator App](https://github.com/dhara-maru/QR-Code-Scanner-Generator)
-     
+  
+7. **Language Translator App 🌏**
+   - Flutter App for translating text between multiple languages effortlessly!
+   - Check out - [Language Translator App](https://github.com/dhara-maru/QR-Code-Scanner-Generator)
 
 ## Technologies Used 💻
 
