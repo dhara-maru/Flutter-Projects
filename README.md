@@ -31,6 +31,11 @@ Welcome to my Flutter Projects Showcase! I Explored the world of Flutter through
 7. **Language Translator App 🌏**
    - Flutter App for translating text between multiple languages effortlessly!
    - Check out - [Language Translator App](https://github.com/dhara-maru/Language-Translator-App)
+  
+8. **Covid Tracker App 🌏**
+   - Flutter App for translating text between multiple languages effortlessly!
+   - Check out - [Covid Tracker App](https://github.com/dhara-maru/Covid-Tracker-App)
+  
 
 ## Technologies Used 💻
 
