@@ -1,7 +1,5 @@
 # Flutter Projects Showcase 🚀
 
-Welcome to my Flutter Projects Showcase! I Explored the world of Flutter through a collection of projects.
-
 ## Projects:
 
 1. **BMI Calculator 🧮**
