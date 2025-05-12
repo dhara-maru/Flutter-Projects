@@ -1,4 +1,4 @@
-# Flutter Projects Showcase 🚀
+# Flutter Projects 🚀
 
 ## Projects:
 
